@@ -1,2 +1,2 @@
-maaz-org.github.com
+maaz.org
 ==================
